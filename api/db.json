@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "fake stream",
+      "description": "ovo nije nikakav stream",
+      "userId": "104204032545112430873",
+      "id": 1
+    },
+    {
+      "title": "novi dummy stream",
+      "description": "opis prenosa",
+      "userId": "104204032545112430873",
+      "id": 2
+    }
+  ]
+}
